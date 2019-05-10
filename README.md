@@ -1,5 +1,7 @@
 # end manager system pages
 
+[免费小说书城](http://www.ibiquwu.com)
+
 - 基于bootstrap + jQeury
 
 - webpack, gulp, es6等全都没有
